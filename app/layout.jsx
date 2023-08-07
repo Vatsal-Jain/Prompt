@@ -5,7 +5,10 @@ import Provider from "@components/Provider";
 export const metadata = {
   title: "Prompt",
   description: "Discover and share prompts",
- 
+ icons:{
+  icon:"/assets/images/logo.svg",
+  apple:"/assets/images/logo.svg"
+ }
 
 };
 
